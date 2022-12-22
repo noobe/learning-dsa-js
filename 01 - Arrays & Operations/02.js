@@ -10,3 +10,4 @@ arr1.pop();
 arr1.concat(9);
 arr1.concat(10, 11);
 arr1.concat(arr2);
+console.log([...arr1, ...arr2]);
