@@ -19,3 +19,6 @@ const res3 = arr.reduce((acc, user) => acc+user.rating, 0)/arr.length;
 
 // Find the user with name Bob
 const res4 = arr.find(user => user.userName === 'Bob');
+
+//Check if every user has a valid rating above 0
+const res5 = arr.every(user => Object.hasOwnProperty(user, 'rating') && user.rating > 0);
