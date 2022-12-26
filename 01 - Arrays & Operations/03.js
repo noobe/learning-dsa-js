@@ -28,3 +28,14 @@ const res6 = arr.map(item => item.userName).includes("Jon");
 
 // Find if there is atleast one user with Rating greater than 3.
 const res7 = arr.some(item => item.rating > 3);
+
+// Sort users by the increasing order of rating.
+const res8 = arr.sort((a,b) => {
+  if (a.rating > b.rating) {
+    return 1;
+  } else if (a.rating < b.rating) {
+    return -1;
+  } else {
+    return 0;
+  }
+});
