@@ -22,3 +22,9 @@ const res4 = arr.find(user => user.userName === 'Bob');
 
 //Check if every user has a valid rating above 0
 const res5 = arr.every(user => Object.hasOwnProperty(user, 'rating') && user.rating > 0);
+
+// Find if there is any user by the name Jon
+const res6 = arr.map(item => item.userName).includes("Jon");
+
+// Find if there is atleast one user with Rating greater than 3.
+const res7 = arr.some(item => item.rating > 3);
