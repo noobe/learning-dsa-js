@@ -39,3 +39,8 @@ const res8 = arr.sort((a,b) => {
     return 0;
   }
 });
+
+// Slice out a subarray from 3rd to 5th user record from the main array.
+const res9 = arr.slice(3, 2);
+
+// 
