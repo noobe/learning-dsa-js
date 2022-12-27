@@ -43,4 +43,5 @@ const res8 = arr.sort((a,b) => {
 // Slice out a subarray from 3rd to 5th user record from the main array.
 const res9 = arr.slice(3, 2);
 
-// 
+// Remove the first element in the array.
+const res10 = arr.shift();
