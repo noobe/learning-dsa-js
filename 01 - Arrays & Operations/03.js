@@ -52,3 +52,8 @@ const res11 = arr.unshift({
   userName: 'Alice',
   rating: 3.5
 });
+
+// Iterate throough the list of users.
+for (el of arr){
+  console.log(el);
+}
