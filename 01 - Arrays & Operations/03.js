@@ -45,3 +45,10 @@ const res9 = arr.slice(3, 2);
 
 // Remove the first element in the array.
 const res10 = arr.shift();
+
+// Add a user record to the beginning of the array
+const res11 = arr.unshift({
+  userId: 1,
+  userName: 'Alice',
+  rating: 3.5
+});
