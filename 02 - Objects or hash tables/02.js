@@ -9,3 +9,6 @@ Object.keys(obj);
 
 // Get a list of all values in the object
 Object.values(obj);
+
+// Identify object type
+getObjType = obj => Object.prototype.toString.call(obj);
