@@ -10,3 +10,4 @@ Implementations of other data structures:
 - Queue
 
 - linked list
+- double linked list
