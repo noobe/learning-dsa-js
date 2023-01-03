@@ -8,3 +8,5 @@ Built in Data Structures:
 Implementations of other data structures:
 - Stack
 - Queue
+
+- linked list
