@@ -13,3 +13,4 @@ Implementations of other data structures:
 - double linked list
 
 - Tree
+- Binary Tree
