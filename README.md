@@ -11,3 +11,5 @@ Implementations of other data structures:
 
 - linked list
 - double linked list
+
+- Tree
