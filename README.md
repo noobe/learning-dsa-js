@@ -19,3 +19,4 @@ Implementations of other data structures:
 
 - DFS
 - BFS
+- Dijilstras Algorithm
