@@ -16,3 +16,6 @@ Implementations of other data structures:
 - Binary Tree
 - Trie
 - Graph
+
+- DFS
+- BFS
