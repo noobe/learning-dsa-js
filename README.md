@@ -14,3 +14,4 @@ Implementations of other data structures:
 
 - Tree
 - Binary Tree
+- Graph
