@@ -21,3 +21,6 @@ Implementations of other data structures:
 - BFS
 - Dijilstras Algorithm
 - Dynamic programming 
+
+Problem solving methodologies:
+- sliding window
