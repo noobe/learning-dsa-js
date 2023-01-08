@@ -18,6 +18,7 @@ Implementations of other data structures:
 - Trie
 - Graph
 
+- adding/searching/removing/replacing items in above structures.
 - DFS
 - BFS
 - Dijilstras Algorithm
