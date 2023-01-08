@@ -11,6 +11,7 @@ Implementations of other data structures:
 
 - linked list
 - double linked list
+- circular linked list
 
 - Tree
 - Binary Tree
